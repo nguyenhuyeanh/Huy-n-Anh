@@ -1,0 +1,16 @@
+/* Các kiểu dùng chung cho cả hai phần tử */
+.common-style {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+/* Kiểu riêng cho phần tử đầu tiên */
+.element-one {
+    background-color: black;
+    color: white;
+}
+
+/* Kiểu riêng cho phần tử thứ hai */
+.element-two {
+    background-color: yellow;
+}
